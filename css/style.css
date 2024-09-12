@@ -217,7 +217,7 @@ button {
 }
 
 .layout_padding {
-    padding-top: 90px;
+    padding-top: 30px;
     padding-bottom: 0px;
 }
 
@@ -370,7 +370,7 @@ button {
     float: left;
     font-size: 16px;
     color: #ffffff;
-    background-color: #252525;
+    background-color: #154331;
     text-align: center;
     padding: 10px 0px;
     border-radius: 5px;
@@ -400,7 +400,7 @@ button {
     font-size: 40px;
     text-transform: uppercase;
     text-align: center;
-    color: #232322;
+    color: #154331;
     font-weight: bold;
 }
 
@@ -455,7 +455,7 @@ button {
 .btn_main {
     width: 100%;
     display: flex;
-    background-color: #000;
+    background-color: #154331;
     height: auto;
     padding: 20px 10px 13px 10px;
 }
